@@ -99,4 +99,4 @@ Potato-plant-disease/
 
 - The dataset used for training this model
 - TensorFlow and Streamlit communities for their excellent documentation
-- Contributors and supporters of this project
+
